@@ -1,3 +1,5 @@
+Curso Udemy Desarrollando Aplicaciones en React 19 y ASP.NET Core 9 de Felipe Gavilan
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
